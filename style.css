@@ -1,0 +1,10 @@
+.custom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+input{
+    width: 95px !important;
+    margin-bottom: 10px;}
